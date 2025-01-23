@@ -8,8 +8,8 @@
 - 🎮 Gaming & Anime are my escape routes
 - 🌱 Currently mastering: **Backend Development**
 - 📚 Favorite Anime: [Your Favorite Anime Here]
-
 ---
+
 
 ## 🌸 My Toolbox 🌸
 
