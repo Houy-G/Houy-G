@@ -1,6 +1,6 @@
 # 🌸 Welcome to My Anime World! 🌸
 
-![Header]([https://your-image-link-here.com](https://media.tenor.com/6T-WBs6yEToAAAAi/azur-lane-bashful.gif))
+![Header]([https://media.tenor.com/6T-WBs6yEToAAAAi/azur-lane-bashful.gif])
 
 ## 🌟 About Me 🌟
 - 🎓 Aspiring Backend Developer | IT Enthusiast
