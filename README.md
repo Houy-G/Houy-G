@@ -1,6 +1,6 @@
 # 🌸 Welcome to My Anime World! 🌸
 
-![Header](https://your-image-link-here.com)
+![Header]([https://your-image-link-here.com](https://media.tenor.com/6T-WBs6yEToAAAAi/azur-lane-bashful.gif))
 
 ## 🌟 About Me 🌟
 - 🎓 Aspiring Backend Developer | IT Enthusiast
@@ -24,12 +24,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
----
-
-## 🎨 Anime-Inspired Quote
-
-> "A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something in return." – Fullmetal Alchemist: Brotherhood
 
 ---
 
