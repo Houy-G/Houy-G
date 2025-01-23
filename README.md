@@ -1,6 +1,6 @@
 # 🌸 Welcome to My Anime World! 🌸
 
-![Header]([https://media.tenor.com/6T-WBs6yEToAAAAi/azur-lane-bashful.gif])
+![Header](https://assets-prd.ignimgs.com/2022/08/17/top25animecharacters-blogroll-1660777571580.jpg)
 
 ## 🌟 About Me 🌟
 - 🎓 Aspiring Backend Developer | IT Enthusiast
